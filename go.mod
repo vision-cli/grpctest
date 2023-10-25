@@ -2,7 +2,7 @@ module github.com/vision-cli/grpctest
 
 go 1.20
 
-require google.golang.org/grpc v1.56.2
+require google.golang.org/grpc v1.56.3
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
